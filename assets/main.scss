@@ -1,0 +1,71 @@
+---
+---
+
+@import "minima";
+
+.site-nav .page-link {
+  transition: border-bottom 0.2s ease;
+}
+
+.site-nav .page-link.active {
+  border-bottom: 2px solid #2a7ae2;
+  padding-bottom: 2px;
+}
+
+.page-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.centered_content {
+  text-align: center;
+}
+
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.logo-grid img {
+  width: 100px;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  filter: drop-shadow(0px 0px 1px rgba(0,0,0,0.2));
+}
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+  align-items: stretch;
+}
+
+.person-card {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* or center, see note below */
+  height: 100%;                /* NEW: fill grid cell */
+  padding: 1rem;               /* optional: better spacing */
+}
+
+.person-card img {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+}
+
+.person-card p {
+  margin: 0.3em;
+  line-height: 1.4;
+  text-align: center;
+}

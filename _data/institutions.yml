@@ -1,0 +1,58 @@
+# High-level institutions
+CONICET:
+  name_es: Consejo Nacional de Investigaciones Científicas y Técnicas
+  name_en: National Scientific and Technical Research Council
+  name_short: CONICET
+  url: https://www.conicet.gov.ar/?lan=en
+  logo: CONICET.png
+
+SADAF:
+  name_es: Sociedad Argentina de Análisis Filosófico
+  name_en: Argentinian Society for Analytic Philosophy
+  name_short: SADAF
+  url: https://www.sadaf.org.ar/en/
+  logo: SADAF.png
+
+UBA:
+  name_es: Universidad de Buenos Aires
+  name_en: University of Buenos Aires
+  name_short: UBA
+  url: https://internacionales.uba.ar/en/
+  logo: UBA.png
+
+UTN:
+  name_es: Universidad Tecnológica Nacional
+  name_en: Universidad Tecnológica Nacional
+  name_short: UTN
+  url: https://www.utn.edu.ar/
+  logo: UTN.png
+
+# Mid-level institutions
+FILO:
+  name_es: Facultad de Filosofía y Letras
+  name_en: Philosophy Department
+  name_short: FFyL
+  url: https://filo.uba.ar/
+  logo: FFyL.png
+
+IIF:
+  name_es: Instituto de Investigaciones Filosóficas SADAF/CONICET
+  name_en: Institute of Philosophical Research SADAF/CONICET
+  name_short: IIF-SADAF-CONICET
+  url: https://iif.conicet.gov.ar/?lan=en
+  logo: IIF-SADAF-CONICET.png
+
+UTN_BA:
+  name_es: Facultad Regional Buenos Aires
+  name_en: Facultad Regional Buenos Aires
+  name_short: UTN.BA
+  url: https://frba.utn.edu.ar/
+  logo: UTN_BA.jpg
+
+# Low-level institutions
+#DEFILO:
+#  name_es: Departamento de Filosofía
+#  name_en: Philosophy Department
+#  name_short: DeFilo
+#  url: https://filosofia.filo.uba.ar/
+#  logo: 

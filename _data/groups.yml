@@ -1,0 +1,27 @@
+BA-LOGIC:
+  name_es: Buenos Aires Logic Group
+  name_en: Buenos Aires Logic Group
+  name_short: BA-Logic
+  url: https://www.ba-logic.com/
+  logo: BA_LOGIC.png
+
+CONTINGENCIA:
+  name_es: Contingencia
+  name_en: Contingencia
+  name_short: Contingencia
+  url: 404.html
+  logo: CONTINGENCIA.png
+
+GIAR:
+  name_es: Grupo de Inteligencia Artificial y Robótica
+  name_en: Artificial Intelligence and Robotics Group
+  name_short: GIAR
+  url: https://giar.ai/
+  logo: GIAR.png
+
+TALK:
+  name_es: Teoría y Análisis del Lenguaje
+  name_en: Theory and Analysis of Language Group
+  name_short: TALK Group
+  url: https://talk-group.org/
+  logo: TALK_GROUP.png

@@ -1,0 +1,141 @@
+coordinators:
+  name: Coordinators
+  people:
+    - id: ramiro_caso
+      name: Ramiro Caso
+      institution_high:
+        - UBA
+        - CONICET
+      institution_mid:
+        - IIF
+        - FILO
+      institution_low:
+        - DEFILO
+      position: Researcher
+      group:
+        - TALK
+      industry:
+      url: https://r-caso.github.io/
+      photo: ramirocaso.jpg
+    - id: mauro_santelli
+      name: Mauro Santelli
+      institution_high:
+        - UBA
+        - CONICET
+      institution_mid:
+        - IIF
+        - FILO
+      institution_low:
+        - DEFILO
+      position: PhD Student
+      group: CONTINGENCIA
+      industry:
+      url: https://iif.conicet.gov.ar/becarios/mauro-santelli/
+      photo: maurosantelli.jpg
+    - id: joaquin_toranzo
+      name: Joaquín Toranzo Calderón
+      institution_high:
+        - UBA
+        - CONICET
+        - UTN
+      institution_mid:
+        - IIF
+        - FILO
+        - UTN_BA
+      institution_low:
+        - DEFILO
+      position: PhD Student
+      group:
+        - BA_LOGIC
+        - GIAR
+      industry:
+      url: https://iif.conicet.gov.ar/becarios/joaquin-santiago-toranzo-calderon/
+      photo: joaquintoranzo.jpg
+team:
+  name: Team
+  people:
+    - id: aylen_bavosa_castro
+      name: Aylén Bavosa Castro
+      institution_high:
+        - UBA
+      institution_mid:
+        - FILO
+      institution_low:
+        - DEFILO
+      position: PhD Student
+      group:
+        - BA_LOGIC
+      industry:
+      url: https://iif.conicet.gov.ar/scholars/aylen-bavosa-castro/
+      photo: aylenbavosacastro.jpg
+    - id: juan_manuel_lenardi
+      name: Juan Manuel Lenardi
+      institution_high:
+        - UBA
+      institution_mid:
+        - FILO
+      institution_low:
+        - DEFILO
+      position: Undergraduate Student
+      group:
+      industry:
+      url:
+      photo: juanmanuellenardi.jpg
+    - id: nadia_martinez
+      name: Nadia Martínez
+      institution_high:
+        - UBA
+      institution_mid:
+        - FILO
+      institution_low:
+        - DEFILO
+      position: Undergraduate Student
+      group:
+        - BA_LOGIC
+      industry:
+      url:
+      photo: nadiamartinez.jpg
+    - id: rocio_roitmann
+      name: Rocío Roitmann
+      institution_high:
+        - UBA
+      institution_mid:
+        - FILO
+      institution_low:
+        - DEFILO
+      position: Undergraduate Student
+      group:
+      industry:
+      url:
+      photo: rocioroitman.jpg
+collaborators:
+  name: Frequent collaborators
+  people:
+    - id: nicolas_aguirre
+      name: Nicolás Aguirre
+      institution_high:
+        - UTN
+      institution_mid:
+        - UTN_BA
+      institution_low: 
+      position: Researcher
+      group:
+        - GIAR
+      industry:
+        - PNYX
+      url:
+      photo: 
+    - id: ramiro_rodriguez_colmeiro
+      name: Ramiro Rodríguez Colmeiro
+      institution_high:
+        - UTN
+      institution_mid:
+        - UTN_BA
+      institution_low: 
+      position: Researcher
+      group:
+        - GIAR
+      industry:
+        - PNYX
+      url: https://rawthil.com.ar/
+      photo: 

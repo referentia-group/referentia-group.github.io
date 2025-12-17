@@ -1,0 +1,39 @@
+papers:
+  name: Papers
+  items:
+    - title: "A-VERT: Agnostic Verification with Embedding Ranking Targets"
+      author:
+        - Nicolás Aguirre,
+        - Ramiro Caso,
+        - Ramiro Rodríguez Colmeiro,
+        - Mauro Santelli,
+        - Joaquín Toranzo Calderón
+      year: 2025
+      url: https://arxiv.org/abs/2510.01469
+      doi: 10.48550/arXiv.2510.01469
+      pdf: https://arxiv.org/pdf/2510.01469
+      abstract: The automatic evaluation of Language Model (LM) responses is a critical piece in the development of benchmarks and metrics, both for model training and quality assessment of production model endpoints. The current approaches to response classification relies on methods that are too expensive (i.e. LLM-as-a-Judge) or that are far from real-world conditions (string-matching, logprob). In this paper, a structure-free evaluation method is presented. The method makes use of semantic embedding distances to match target candidates with arbitrary LM-generated text, resulting in a robust classification of the response at a relatively low compute cost (embedding models of less than 10B parameters). The results show a regression score of ~0.97 and an accuracy of ~96% against human annotators, tested over 3 data sets and 3 different LM architectures.
+    - title: "Skill Issue: Philosophically Informed Taxonomies for the Evaluation of Language and Agentic Models"
+      author:
+        - Mauro Santelli,
+        - Joaquín Toranzo Calderón,
+        - Ramiro Caso
+      year: 2025
+      url:
+      doi:
+      pdf:
+      abstract: "Given the prominence of Large Language Models in everyday discourse and interdisciplinary research at the forefront of Artificial Intelligence, there is a pressing need to clarify and measure the capabilities of Language Models for different tasks. Currently this is done through a series of direct and indirect means. Two types of evaluations stand out: competitive evaluations and benchmarks. Benchmarks purport to measure the capacity of a given model (or person) to do a given task. These tasks, however, are intuitively interconnected to others, pressing the question of what the nature of their connection is. In this paper we present an argument for a theoretically enriched approach to the capabilities, abilities and skills that are meant to be measured in benchmarks and other tests, in general. We believe that this approach can help bridge the gap between pure theoretical approaches to abilities to the practical problems faced by LM researchers and the public in general. We do this by presenting the case for taxonomies of natural or artificial abilities and skills."
+
+projects:
+  name: Projects
+  items:
+    - title: bAbI-steps
+      description: Inspired by bAbI, a benchmark on different ways of reasoning presented in 2016, we are developing a suite of tasks that ranges from reasoning about strict-order relations in natural language, such as temporal ordering or cardinal directions, to path reasoning based. This is a procedural, configurable and modular benchmark that we are already extending with tasks that assess models performance in other reasoning skills.
+      url: https://github.com/pnyxai/bAbI-steps
+    - title: Reasoning Minimal Pairs
+      description: We extend the minimal pairs methodology from linguistics to the evaluation of reasoning with correct or preferable forms of arguments. RMP is a benchmark with synthetic data that can be extended and used for evaluating reasoning judgments of language models on different frameworks.
+      url: https://github.com/msantelli/m_peirce
+    - title: EspANLI
+      description: There are many benchmarks that deal with underrepresented languages, though many of them built upon translations from other benchmarks. EspANLI is an initiative to develop a benchmark for different Spanish variants on the task of natural language inference (NLI). The cases for testing are generated adversarially, with the help of the University of Buenos Aires (UBA-PIDAE Estructural 2024-4) and the National Technological University (UTN-PID BASIEC916), Argentina.
+      url:
+  
