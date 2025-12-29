@@ -12,6 +12,10 @@
   padding-bottom: 2px;
 }
 
+.site-nav {
+  z-index: 1000 !important;
+}
+
 .page-content p {
   text-align: justify;
   text-justify: inter-word;
