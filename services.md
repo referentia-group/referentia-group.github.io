@@ -9,9 +9,13 @@ If you want to know more about the nature of our services, feel free to contact 
 
 To request our services, please, send an E-mail to [iif@sadaf.org.ar](mailto:iif@sadaf.org.ar).
 
+<hr class="separator">
+
 ## Consultancy on LLM evaluation
 
 We provide consultancy on state of the art philosophical **foundations** (semantic, pragmatic, syntactic, logical and epistemological) for the evaluation, benchmarking and ranking of major language models.
+
+<hr class="separator">
 
 ## Training in LLM benchmarking fundamentals
 
