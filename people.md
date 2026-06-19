@@ -34,7 +34,7 @@ layout: default
           </p>
           <p>
             {% if person.url != null %}
-              <a href="{{ person.url }}" target="_blank">{{ person.url }}</a>
+              <a href="{{ person.url }}" target="_blank">Personal Website</a>
             {% endif %}
           </p>
         </div>
