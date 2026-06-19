@@ -25,6 +25,8 @@ layout: default
 {% endfor %}
 </div>
 
+<hr class="separator">
+
 ## Projects
 
 <div>

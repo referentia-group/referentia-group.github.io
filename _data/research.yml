@@ -30,8 +30,8 @@ projects:
     - title: bAbI-steps
       description: Inspired by bAbI, a benchmark on different ways of reasoning presented in 2016, we are developing a suite of tasks that ranges from reasoning about strict-order relations in natural language, such as temporal ordering or cardinal directions, to path reasoning based. This is a procedural, configurable and modular benchmark that we are already extending with tasks that assess models performance in other reasoning skills.
       url: https://github.com/pnyxai/bAbI-steps
-    - title: Reasoning Minimal Pairs
-      description: We extend the minimal pairs methodology from linguistics to the evaluation of reasoning with correct or preferable forms of arguments. RMP is a benchmark with synthetic data that can be extended and used for evaluating reasoning judgments of language models on different frameworks.
+    - title: BReMP
+      description: We extend the minimal pairs methodology from linguistics to the evaluation of reasoning with correct or preferable forms of arguments. BReMP is a benchmark with synthetic data that can be extended and used for evaluating reasoning judgments of language models on different frameworks.
       url: https://github.com/msantelli/m_peirce
     - title: EspANLI
       description: There are many benchmarks that deal with underrepresented languages, though many of them built upon translations from other benchmarks. EspANLI is an initiative to develop a benchmark for different Spanish variants on the task of natural language inference (NLI). The cases for testing are generated adversarially, with the help of the University of Buenos Aires (UBA-PIDAE Estructural 2024-4) and the National Technological University (UTN-PID BASIEC916), Argentina.
