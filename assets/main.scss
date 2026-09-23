@@ -3,6 +3,15 @@
 
 @import "minima";
 
+/******************
+* General layout  *
+******************/
+
+.page-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /**********
 * Nav bar *
 **********/
@@ -33,7 +42,7 @@
 }
 
 .logo-text {
-    position: absolute;
+  position: absolute;
   bottom: 125%;
   left: 50%;
   transform: translateX(-50%) translateY(4px);
@@ -201,11 +210,6 @@
 * Other elements *
 *****************/
 
-.page-content p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
 .centered_content {
   text-align: center;
 }
@@ -217,5 +221,6 @@
   background-color: grey;
   height: 0.5px;
 }
+
 
 
