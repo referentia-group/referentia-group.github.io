@@ -21,13 +21,13 @@ coordinators:
       name: Mauro Santelli
       institution_high:
         - UBA
-        - CONICET
+        - SADAF
       institution_mid:
         - IIF
         - FILO
       institution_low:
         - DEFILO
-      position: PhD Student
+      position: Researcher
       group: CONTINGENCIA
       industry:
       url: https://maurosantelli.com.ar/
@@ -58,8 +58,10 @@ team:
       name: Aylén Bavosa Castro
       institution_high:
         - UBA
+        - CONICET
       institution_mid:
         - FILO
+        - IIF
       institution_low:
         - DEFILO
       position: PhD Student
