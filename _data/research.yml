@@ -1,6 +1,17 @@
 papers:
   name: Papers
   items:
+    - title: "ESPANLI: An Adversarial NLI Benchmark for Río de la Plata Spanish via Human–Model Competitions"
+      author:
+        - Mauro Santelli,
+        - Joaquín Toranzo Calderón,
+        - Ramiro Caso,
+        - Bruno Muntaabski
+      year: 2026
+      url:
+      doi: 
+      pdf: /assets/docs/paper_JAIIO.pdf
+      abstract: "Natural Language Inference (NLI) benchmarks such as SNLI, MultiNLI and ANLI are standard tools for evaluating language models, but they are overwhelmingly English and increasingly solvable through surface heuristics or prior exposure. Spanish evaluation, and in particular the Río de la Plata variety, remains underrepresented; existing datasets are typically translations that distort lexical overlap, truth conditions and pragmatic context. We describe the design of ESPANLI, an adversarial NLI benchmark for Spanish built from doctoral theses in public repositories of Argentinian universities, with rioplatense phenomena annotated by expert curators. Its core is a human-in-the-loop competition in which trained generators craft instances that defeat reference models and a verification committee retains only majority-validated cases. Expected contributions include a public adversarial corpus, an interactive generation platform, and expert-level NLI sub-tasks native to Spanish" 
     - title: "A-VERT: Agnostic Verification with Embedding Ranking Targets"
       author:
         - Nicolás Aguirre,
